@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Full Stack Development
 - 💞️ I’m looking to collaborate on Web Projects
 - 📫 How to reach me zubedayasmeen1610@gmail.com
-- 
 - ⚡ Fun fact: I love to solve bugs.
 
 <!---
